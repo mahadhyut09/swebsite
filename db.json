@@ -1,0 +1,86 @@
+{"courses": [
+    {
+      "name": "maths",
+      "tnumbnail": "https://www.sapphirewebsolutions.com/wp-content/uploads/2019/09/Web-Development-Trends.jpg",
+      "description": "Web development refers to the building, creating, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet i.e. websites",
+      "sources": [
+        {
+          "name": "Basics",
+          "link": "https://www.youtube.com/embed/l1EssrLxt7E?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        },
+        {
+          "name": "Intro",
+          "link": "https://www.youtube.com/embed/Rek0NWPCNOc?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        },
+        {
+          "name": "HTML",
+          "link": "https://www.youtube.com/embed/2QR11oDukn4?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        },
+        {
+          "name": "Media Elements",
+          "link": "https://www.youtube.com/embed/jRAZlTEZi9I?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        },
+        {
+          "name": "Structuring a mega project",
+          "link": "https://www.youtube.com/embed/61ppyY5rUB0?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        }
+      ]
+    },
+    {
+      "name": "physics",
+      "tnumbnail": "https://www.vertica.com/wp-content/uploads/2019/04/Machine_learning_199085055.jpeg",
+      "description": "Machine learning (ML) is the study of computer algorithms that can improve automatically through experience and by the use of data.[1] It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so.[2",
+      "sources": [
+        {
+          "name": "Basics",
+          "link": "https://www.youtube.com/embed/gmvvaobm7eQ?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw"
+        },
+        {
+          "name": "Intro",
+          "link": "https://www.youtube.com/embed/8jazNUpO3lQ?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw"
+        },
+        {
+          "name": "Linear Regression",
+          "link": "https://www.youtube.com/embed/J_LnPL3Qg70?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw"
+        },
+        {
+          "name": "Gradient Descent and Cost Function",
+          "link": "https://www.youtube.com/embed/vsWrXfO3wWw?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw"
+        },
+        {
+          "name": " Save Model Using Joblib And Pickle",
+          "link": "https://www.youtube.com/embed/KfnhNlD8WZI?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw"
+        }
+      ]
+    },
+    {
+      "name": "chemistry",
+      "tnumbnail": "https://www.abhijitpatra.com/wp-content/uploads/2021/05/79386213.jpg",
+      "description": "Python is currently the most widely used multi-purpose, high-level programming language. Python allows programming in Object-Oriented and Procedural paradigms. Python programs generally are smaller than other programming languages like Java.",
+      "sources": [
+        {
+          "name": "Basics",
+          "link": "https://www.youtube.com/embed/eykoKxsYtow?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0"
+        },
+        {
+          "name": "Intro",
+          "link": "https://www.youtube.com/embed/6lBPM-MiGNI?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0"
+        },
+        {
+          "name": "Variables in python",
+          "link": "https://www.youtube.com/embed/8tCe1P_cgoY?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0"
+        },
+        {
+          "name": "Numbers",
+          "link": "https://www.youtube.com/embed/pd2_ZbhFT38?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0"
+        },
+        {
+          "name": "Strings",
+          "link": "https://www.youtube.com/embed/ez2N-hcwvcQ?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0"
+        },
+        {
+          "name": "Lists",
+          "link": "https://www.youtube.com/embed/t0UTQ1eOH_g?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0"
+        }
+      ]
+    }]}

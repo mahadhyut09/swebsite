@@ -1,0 +1,16 @@
+GET http://localhost:3000/courses-api/courses
+###
+POST http://localhost:3000/courses-api/postcourse
+Content-Type: application/json
+
+{
+  "chemistry":"This is chemistry"
+}
+###
+POST http://localhost:3000/user-api/create-user
+Content-Type: application/json
+
+{
+    "email":"gmail@gmail.com",
+    "password":"Hello"
+}
